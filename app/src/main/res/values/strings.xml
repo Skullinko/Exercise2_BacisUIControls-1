@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bacis UI Controls - 1</string>
+    <string name="rb_meatballs">Meatballs</string>
+    <string name="rb_chicken">Chicken</string>
+    <string name="rb_fish">Fish</string>
+    <string name="rb_steak">Steak</string>
+    <string name="rb_carrots">Carrots</string>
+    <string name="btn_text">Select</string>
+</resources>
